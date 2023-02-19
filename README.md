@@ -35,6 +35,6 @@ I'm an ambivert - I love to socialize and hang out with friends, but I also need
 
 <p left="center">
   <a href="https://2marketing.com/">
-    <img src="https://cdn-hlhjb.nitrocdn.com/ZUTspZnKJbGrRNNyhZJdhpChBvIyOPCJ/assets/images/optimized/rev-485e536/wp-content/uploads/2022/10/logo.png" height=50>
+    <img src="https://cdn-hlhjb.nitrocdn.com/ZUTspZnKJbGrRNNyhZJdhpChBvIyOPCJ/assets/images/optimized/rev-485e536/wp-content/uploads/2022/10/logo.png" height=20>
     </a>
 </p>
